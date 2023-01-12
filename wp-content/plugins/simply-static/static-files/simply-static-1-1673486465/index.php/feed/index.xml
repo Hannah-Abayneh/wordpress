@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Adwallet</title>
+	<atom:link href="https://hannah-abayneh.github.io/wordpress/index.php/feed/?simply_static_page=7224" rel="self" type="application/rss+xml" />
+	<link>https://hannah-abayneh.github.io/wordpress</link>
+	<description>Adwallet</description>
+	<lastBuildDate>Wed, 11 Jan 2023 16:57:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://hannah-abayneh.github.io/wordpress/wp-content/uploads/2023/01/adWalletIcon.png</url>
+	<title>Adwallet</title>
+	<link>https://hannah-abayneh.github.io/wordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+</channel>
+</rss>
